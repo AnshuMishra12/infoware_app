@@ -29,3 +29,10 @@ It includes login functionality and three core forms:
    ```bash
    git clone https://github.com/AnshuMishra12/infoware_app
    cd infoware_app
+   Install dependencies
+2.Install dependencies
+pip install -r requirements.txt
+
+3.Run the app
+python main.py
+
